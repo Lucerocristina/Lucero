@@ -4,7 +4,7 @@ import pickle
 from sklearn.model_selection import GridSearchCV
 
 # Set Streamlit page configuration
-st.set_page_config(layout="wide", page_title="Image Classification for Mushroom")
+st.set_page_config(layout="wide", page_title="Image Classification for Cat")
 
 # Function to load the model
 def load_model():
@@ -35,8 +35,8 @@ model = load_model()
 svc_model = extract_model(model)
 
 # Streamlit Web App Interface
-st.write("## Mushroom Dataset (Binary Classification) Model 🍄 ")
-st.write("Upload an image of a mushroom, and we'll predict its category based on our trained model!")
+st.write("## Cat Dataset Model 🐱 ")
+st.write("Upload an image of a cat, and we'll predict its category based on our trained model!")
 st.sidebar.write("## Upload and Download")
 
 # Streamlit columns for displaying the image and prediction
@@ -58,4 +58,4 @@ if my_upload is not None:
 else:
     st.write("## Welcome!")
     st.write("Upload an image to get started.")
-    st.write("This app is developed by Queenie Lynn Seballos.")
+    st.write("This app is developed by Cristina Lucero.")
