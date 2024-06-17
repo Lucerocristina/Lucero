@@ -28,7 +28,7 @@ This app employs advanced deep learning models to categorize images into specifi
     st.markdown("---")
 
     st.info("Explore each application to witness demonstrations and gain a deeper understanding of the underlying technology.")
-    st.info("Connect with me on [Facebook](https://web.facebook.com/queenie.seballos) for collaborations and discussions.")
+    st.info("Connect with me on [Facebook](https://www.facebook.com/reyann.bolhano) for collaborations and discussions.")
 
 # Main function to run the app
 def main():
