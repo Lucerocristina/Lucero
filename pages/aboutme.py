@@ -36,8 +36,8 @@ def show_about_me():
 
     st.markdown("---")
 
-    st.info("Connect with me on [Facebook](https://web.facebook.com/queenie.seballos)")
-    st.info("Visit my personal website [here](https://web.facebook.com/queenie.seballos)")
+    st.info("Connect with me on [Facebook](https://www.facebook.com/reyann.bolhano)")
+    st.info("Visit my personal website [here](https://www.facebook.com/reyann.bolhano)")
 
 # Main function to run the app
 def main():
