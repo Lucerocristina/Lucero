@@ -4,24 +4,25 @@ def show_app_description():
     st.markdown("# APP DESCRIPTION")
 
     st.markdown("""
-    Welcome to my Streamlit application portfolio. I exhibit three captivating projects that epitomize my proficiency and ardor for machine learning and data science.
+    Welcome to my Streamlit application portfolio. Here, I showcase three compelling projects that highlight my expertise and passion for machine learning and data science.
     """)
 
     st.markdown("## Machine Learning Applications")
 
     st.markdown("### Crop Prediction 🌾")
     st.markdown("""
-    This application employs sophisticated machine learning models to forecast crop yields by analyzing historical data, weather patterns, and soil conditions. Its objective is to aid farmers in making well-informed decisions for optimal crop planning and management.
+    This application uses advanced machine learning models to predict crop yields by examining historical data, weather trends, and soil conditions. Its goal is to help farmers make informed decisions for better crop planning and management.
     """)
 
     st.markdown("### Sentiment Analyzer 😊")
     st.markdown("""
-    The sentiment analyzer utilizes natural language processing (NLP) techniques for analyzing and classifying text sentiment, aiding businesses in comprehending customer feedback, social media sentiment, and review sentiments to derive actionable insights.
+    The sentiment analyzer employs NLP methods to analyze and categorize text sentiment. This helps businesses understand customer feedback, social media sentiment, and review sentiments to gain useful insights for action.
     """)
 
     st.markdown("### Image Classification 🖼️")
     st.markdown("""
-    This application utilizes deep learning models for classifying images into predefined categories, facilitating tasks like object identification, facial recognition, and medical image analysis. Dive into the capabilities of image recognition through this interactive tool.
+    
+This app employs advanced deep learning models to categorize images into specific groups, enabling functions such as identifying objects, recognizing faces, and analyzing medical images. Explore the potential of image recognition with this interactive tool.
     """)
 
     st.markdown("---")
