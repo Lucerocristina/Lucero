@@ -4,14 +4,15 @@ def show_learnings():
     st.markdown("# WHAT I HAVE LEARNED")
 
     st.markdown("""    
-    Creating these applications has been a fulfilling experience, enabling me to explore diverse facets of machine learning and data science. Here are key insights gained from each project:
+    
+    Developing these applications has been rewarding, allowing me to delve into various aspects of machine learning and data science. Below are the significant learnings extracted from each project:
     """)
 
     st.markdown("## Crop Prediction 🌾")
     st.markdown("""
-    - **Data Visualization**: I've honed my skills in creating insightful visualizations that communicate complex trends and patterns in agricultural data.
-    - **Predictive Analytics**: Applied classification algorithms to forecast pest outbreaks in crops, leveraging historical data and environmental factors.
-    - **Research and Development**: Acquired insights into agricultural practices and the importance of data-driven decision-making in farming.
+    - **Predictive Analytics**: Utilized classification algorithms to predict pest infestations in crops by analyzing historical data and environmental variables.
+    - **Research and Development**: Gained valuable insights into agricultural methodologies and the critical role of data-driven choices in farming.
+    - **Data Visualization**: I have developed expertise in crafting clear visual representations that convey intricate trends and patterns found in agricultural data.
     """)
 
     st.markdown("## Sentiment Analyzer 😊")
@@ -23,14 +24,14 @@ def show_learnings():
 
     st.markdown("## Image Classification 🖼️")
     st.markdown("""
-    - **Natural Language Processing**: Explored advanced techniques in NLP using models such as BERT, GPT-3, and Transformer for tasks like sentiment analysis and language generation.
-    - **Reinforcement Learning**:  Implemented RL algorithms like Deep Q-Networks (DQN) and Policy Gradient methods to solve complex decision-making problems in environments such as game simulations and robotics.
-    - **Time Series Forecasting**: Applied LSTM and GRU networks to predict trends in financial markets, energy consumption, and weather patterns, demonstrating the versatility of neural networks in sequential data analysis.
+    - **Natural Language Processing**: Explored advanced methods in Natural Language Processing, employing models like BERT, GPT-3, and Transformer to handle tasks such as sentiment analysis and language generation.
+    - **Reinforcement Learning**: Implemented Reinforcement Learning techniques, including Deep Q-Networks (DQN) and Policy Gradient methods, to address intricate decision-making challenges in environments like game simulations and robotics.
+    - **Time Series Forecasting**: Applied LSTM and GRU networks in Time Series Forecasting to predict trends in domains such as financial markets, energy usage, and weather patterns, showcasing the effectiveness of neural networks in analyzing sequential data.
     """)
 
     st.markdown("---")
 
-    st.info("These projects have furnished me with practical expertise in machine learning, encompassing data preprocessing, model evaluation, and domain-specific insights.. Connect with me on [Facebook](https://web.facebook.com/queenie.seballos) to discuss more about these projects!")
+    st.info("These projects have furnished me with practical expertise in machine learning, encompassing data preprocessing, model evaluation, and domain-specific insights.. Connect with me on [Facebook](https://www.facebook.com/reyann.bolhano) to discuss more about these projects!")
 
 # Main function to run the app
 def main():
