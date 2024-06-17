@@ -3,7 +3,7 @@ import streamlit as st
 def show_about_me():
     st.markdown("# ABOUT ME")
     st.markdown("""
- I am an extrovert with a passion for the arts, thriving on engaging with others and expressing my creativity in vibrant, dynamic ways. My outgoing personality and artistic talents make me the life of any gathering, always ready to inspire and energize those around me.
+ I am a joyful and lively individual with a gentle and compassionate heart. Dancing and engaging in arts and crafts are among my favorite activities, as they allow me to express my creativity and bring me immense joy. Participating in pageants and organizing events are also passions of mine, as they not only boost my confidence but also provide a platform to showcase different facets of my personality. Through these experiences, I can connect with others, celebrate my achievements, and continuously grow as a person. These activities reflect my vibrant and dynamic nature, allowing me to shine and inspire those around me.
     """)
 
     st.markdown("---")
@@ -17,17 +17,21 @@ def show_about_me():
 
     with st.expander("More about me"):
         st.markdown("""
-       My journey in a BSIS course has been both challenging and rewarding, as I navigate the complexities of information systems and strive to master the integration of technology and business. Despite the tough demands of the coursework, the sense of accomplishment and joy I feel with each milestone makes the experience incredibly fulfilling.
+       My journey in the Bachelor of Science in Information Systems (BSIS) has been a transformative experience, equipping me with a comprehensive understanding of both technical and business aspects of technology. Through rigorous coursework and practical projects, I have developed skills in system analysis, database management, and information technology, preparing me to bridge the gap between business needs and technological solutions.
+
+
+
+
         
         ### Personal Interests
 
-        - **Taekwondo**: I love practicing Taekwondo; it's exhilarating.
-        - **Reading Books and Novels**:Reading books and novels inspires me.
-        - **Arts and Drawing**: Arts and drawing unleash my creativity.
+        - **Dancing**
+        - **Modeling**
+        - **Arts and Drawing**
         
         ### Future Goals
 
-        In the next 5 years, I aim to excel in my BSIS career, achieve a black belt in Taekwondo, and continue enriching my life through reading and artistic endeavors.
+       In five years, I aim to become a well-rounded performer, excelling in dancing and modeling while integrating my passion for the arts into my career. I envision myself participating in high-profile dance productions, fashion shows, and creating innovative art projects that blend movement, style, and creativity.
         """)
 
     st.markdown("---")
