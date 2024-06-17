@@ -28,7 +28,7 @@ show_pages(
 
 hide_pages(["Thank you"])
 
-st.markdown("### 👨‍🔧 ML Learning by [koalatech](https://github.com/koalatech)")
+st.markdown("### 👨‍🔧 ML Learning by [Cristina Lucero](https://github.com/koalatech)")
 
 st.image("./p1.jpg")
 st.markdown("""<a href="/photographer/thinkstock-83786">Thinkstock</a> on <a href="/">Freeimages.com</a>""",unsafe_allow_html=True,)
